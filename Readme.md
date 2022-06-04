@@ -6,7 +6,7 @@ This repository is organized by parts. Each folder corresponds to a respective p
 
 I have included links to each part of the course for anyone who may be curious about what was covered or possibly interested in taking the course for themselves.
 
-__I want to extend a very special thank you to Professor Matti Luukkainen and to everyone involved with Full Stack Open__
+__I want to extend a very special thank you to Professor Matti Luukkainen and to everyone involved with FS Open__
 
 #### [Part 0 - Fundamentals of Web Apps](https://fullstackopen.com/en/part0)
 #### [Part 1 - Introduction to React](https://fullstackopen.com/en/part1)
