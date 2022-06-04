@@ -6,6 +6,6 @@ This repository is organized by parts. Each folder corresponds to a respective p
 
 I have included links to each part of the course on the website for anyone who may be curious about what was covered or interested in taking the course for themselves.
 
-## A very special thank you to everyone involved with Full Stack Open
+__A very special thank you to everyone involved with Full Stack Open___
 
-#### [Part 0](https://fullstackopen.com/en/part0)
+#### [Part 0 - Fundamentals of Web Apps](https://fullstackopen.com/en/part0)
