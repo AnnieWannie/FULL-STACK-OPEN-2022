@@ -1,4 +1,4 @@
-# The University of Helsinki [Full Stack Open 2022](https://fullstackopen.com/en/)
+# The University of Helsinki [Full Stack Open 2024](https://fullstackopen.com/en/)
 
 A repository containing my submissions for The University of Helsinki Full Stack Open 2024 
 
