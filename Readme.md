@@ -1,6 +1,6 @@
 # The University of Helsinki [Full Stack Open 2022](https://fullstackopen.com/en/)
 
-A repository containing my submissions for The University of Helsinki Full Stack Open 2022 
+A repository containing my submissions for The University of Helsinki Full Stack Open 2024 
 
 This repository is organized by parts. Each directory corresponds to a respective part of the course.
 
